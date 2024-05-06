@@ -1,6 +1,7 @@
 import GeekFood from '../assets/Projects/GeekFood.png'
 import Resume from '../assets/Projects/resume.png'
 import imdb from '../assets/Projects/movies.png'
+import Fitness from '../assets/Projects/Fitness.png'
 
 export const data=[
     {
