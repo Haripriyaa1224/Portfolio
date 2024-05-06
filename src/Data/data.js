@@ -8,7 +8,7 @@ export const data=[
         name:"React JS Application",
         image:GeekFood,
         github:"https://github.com/Haripriyaa1224/geekfood",
-        live:"https://dashing-snickerdoodle-f94e0d.netlify.app/",
+        live:"https://geekfood-j679.vercel.app/",
     },
     {
         id:2,
@@ -20,9 +20,9 @@ export const data=[
     {
         id:3,
         name:"React JS Application",
-        image:GeekFood,
-        github:"",
-        live:"",
+        image:Fitness,
+        github:"https://github.com/Haripriyaa1224/fitness",
+        live:"https://fitness-ruddy-theta.vercel.app/",
     },
     {
         id:4,
